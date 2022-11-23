@@ -1,0 +1,10 @@
+Etudier les données et bien choisir les hyperparam du modèle
+
+1 -      - Créer une IA sur le csv donné (qui s'entraine sur les 700 premiers vins, et qui se teste sur les 400 restants ?)
+2 -      - Un appel d'api POST avec les données d'un vin permet d'obtenir sa note par l'IA
+3 -      - Un GET donne les valeurs plus ou moins d'un vin pour obtenir un 10/10 par l'IA
+4 -      - GET api/model(/description) -> Donne des infos sur l'IA (le modèle)
+5 - DONE - PUT /api/model -> Ajout d'un vin à la base d'entainement (le CSV)
+6 -      - POST /api/model/retrain -> Relance l'entraienement avec le CSV mis-a-jour
+
+Pour chaque entrainement, modele sauvé sur le disque
