@@ -1,0 +1,53 @@
+[{
+    "fixed_acidity":10.5,
+    "volatile_acidity":0.42,
+    "citric_acid":0.66,
+    "residual_sugar": 2.95,
+    "chlorides":0.11599999999999999,
+    "free_sulfur_dioxide":12.0,
+    "total_sulfur_dioxide":29.0,
+    "density":0.997,
+    "pH":3.24,
+    "sulphates":0.75,
+    "alcohol":11.7
+},
+{
+    "fixed_acidity":7.9,
+    "volatile_acidity":0.6,
+    "citric_acid":0.06,
+    "residual_sugar":1.6,
+    "chlorides":0.069,
+    "free_sulfur_dioxide":15.0,
+    "total_sulfur_dioxide":59.0,
+    "density":0.9964,
+    "pH":3.3,
+    "sulphates":0.46,
+    "alcohol":9.4
+},
+{
+    "fixed_acidity":8.8,
+    "volatile_acidity":0.61,
+    "citric_acid":0.3,
+    "residual_sugar":2.8,
+    "chlorides":0.08800000000000001,
+    "free_sulfur_dioxide":17.0,
+    "total_sulfur_dioxide":46.0,
+    "density":0.9976,
+    "pH":3.26,
+    "sulphates":0.51,
+    "alcohol":9.3
+},
+{
+    "fixed_acidity":5.6,
+    "volatile_acidity":0.85,
+    "citric_acid":0.05,
+    "residual_sugar":1.4,
+    "chlorides":0.045,
+    "free_sulfur_dioxide":12.0,
+    "total_sulfur_dioxide":88.0,
+    "density":0.9924,
+    "pH":3.56,
+    "sulphates":0.82,
+    "alcohol":12.9
+}]
+
