@@ -1,0 +1,1 @@
+On the get '/api/model', the server return a joblib file
